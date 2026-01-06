@@ -4,7 +4,7 @@
 
 # Ludwig Siisi Ben-Acquaah
 
-**Electrical Engineering Student | Learning to Code**
+**Electrical Engineering Student | Self-Taught Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-siisi-ben-acquaah-119534332)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ludwig_siisi)
@@ -15,9 +15,7 @@
 ---
 
 ## About Me
-
-EE student teaching myself to code. Currently learning the fundamentals and working on small projects to practice. My goal is to build automation tools, web applications, and eventually contribute to open source.
-
+EE student learning to code to build automated and control systems, data-driven applications, web tools, and contribute to open source.
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,6 +23,7 @@ EE student teaching myself to code. Currently learning the fundamentals and work
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ## Interests
 
