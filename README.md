@@ -15,7 +15,7 @@
 ---
 
 ## About Me
-EE student learning to code to build automated and control systems, data-driven applications, web tools, and contribute to open source.
+Aspiring Electronics Engineer learning to code to build automated and control systems, data-driven applications, web tools, and contribute to open source.
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
