@@ -4,7 +4,7 @@
 
 # Ludwig Siisi Ben-Acquaah
 
-**Electrical Engineering Student | Self-Taught Developer**
+**Aspiring Electronics Engineer | Self-Taught Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-siisi-ben-acquaah-119534332)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ludwig_siisi)
