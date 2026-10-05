@@ -4,7 +4,7 @@
 
 <!-- Dynamic Typing Greeting -->
 <a href="https://github.com/ludwig-siisi07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Aspiring+Electronics+Engineer;Self-Taught+Developer;Building+automated+control+systems;Hi+there,+I'm+Ludwig!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ludwig!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -72,11 +72,5 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
     </td>
   </tr>
 </table>
-
-<!-- Row 3: Live Contribution Calendar -->
-### 📅 Contribution Graph
-<a href="https://github.com/ludwig-siisi07">
-  <img src="https://ghchart.rshah.org/61dafb/ludwig-siisi07" alt="Ludwig's Github Chart" width="800" />
-</a>
 
 </div>
