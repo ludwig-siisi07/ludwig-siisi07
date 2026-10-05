@@ -53,16 +53,16 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292f&hide_border=true&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292f&hide_border=true&show_icons=true&include_all_commits=true&v=1" alt="GitHub Stats" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&bg_color=ffffff&title_color=0366d6&text_color=24292f&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&bg_color=ffffff&title_color=0366d6&text_color=24292f&hide_border=true&layout=compact&v=1" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" style="border: none;">
       <!-- Streak with white background, dark text, blue labels, and fiery streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=ffffff&stroke=00000000&dates=24292f&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=24292f&currStreakLabel=0366d6&sideLabels=0366d6&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=ffffff&stroke=00000000&dates=24292f&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=24292f&currStreakLabel=0366d6&sideLabels=0366d6&hide_border=true&v=1" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
