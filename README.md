@@ -24,24 +24,21 @@
   </a>
 </p>
 
-<!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=0366d6&style=flat-square&label=Profile+Views)
-
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🧔🏽About Me
 Aspiring Electronics Engineer learning to code to build automated and control systems, data-driven applications, web tools, and contribute to open source.
 
-## ⚡ Tech Stack
+## 🧑🏽‍💻Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,js,html,css,matlab" alt="Tech Stack Icons" />
   </a>
 </div>
 
-## 🎯 Interests
+## 🎯Interests
 - Automation and making tasks easier
 - Web development
 - Football and classical music
