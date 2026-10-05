@@ -61,8 +61,8 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
   </tr>
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <!-- Streak with white background, dark text, blue labels, and fiery streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=ffffff&stroke=00000000&dates=24292f&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=24292f&currStreakLabel=0366d6&sideLabels=0366d6&hide_border=true&v=1" alt="GitHub Streak" />
+      <!-- Streak card with the total contributions column removed -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=ffffff&stroke=00000000&dates=24292f&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=24292f&currStreakLabel=0366d6&sideLabels=0366d6&hide_border=true&hide_total_contributions=true&v=2" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
