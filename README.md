@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/ludwig-siisi07.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 0 10px rgba(97, 218, 251, 0.5);">
+<img src="https://github.com/ludwig-siisi07.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #0366d6; box-shadow: 0 0 10px rgba(3, 102, 214, 0.3);">
 
 <!-- Dynamic Typing Greeting -->
 <a href="https://github.com/ludwig-siisi07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ludwig!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0366d6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ludwig!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 </p>
 
 <!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=61dafb&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=0366d6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -52,20 +52,20 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
 
 <div align="center">
 
-<!-- Dashboard Grid layout with Custom Branding -->
+<!-- Dashboard Grid layout for Light Theme -->
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&hide_border=true&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292f&hide_border=true&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&bg_color=ffffff&title_color=0366d6&text_color=24292f&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <!-- Streak with custom fiery colors and cyan text -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=0d1117&stroke=00000000&dates=c9d1d9&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=c9d1d9&currStreakLabel=61dafb&sideLabels=61dafb&hide_border=true" alt="GitHub Streak" />
+      <!-- Streak with white background, dark text, blue labels, and fiery streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=ffffff&stroke=00000000&dates=24292f&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=24292f&currStreakLabel=0366d6&sideLabels=0366d6&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
