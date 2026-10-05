@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🧔🏽About Me
+## 🤓About Me
 Aspiring Electronics Engineer learning to code to build automated and control systems, data-driven applications, web tools, and contribute to open source.
 
 ## 🧑🏽‍💻Tech Stack
