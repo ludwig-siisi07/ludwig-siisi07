@@ -25,7 +25,7 @@
 </p>
 
 <!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=7aa2f7&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=61dafb&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -52,20 +52,20 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
 
 <div align="center">
 
-<!-- Dashboard Grid layout for Stats -->
+<!-- Dashboard Grid layout with Custom Branding -->
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&hide_border=true&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <!-- Streak with custom fiery colors -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&theme=tokyonight&hide_border=true&fire=ff5722&ring=ff9800&currStreakNum=ff5722" alt="GitHub Streak" />
+      <!-- Streak with custom fiery colors and cyan text -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&background=0d1117&stroke=00000000&dates=c9d1d9&ring=ff9800&fire=ff5722&currStreakNum=ff5722&sideNums=c9d1d9&currStreakLabel=61dafb&sideLabels=61dafb&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
