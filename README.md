@@ -25,7 +25,7 @@
 </p>
 
 <!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=61dafb&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ludwig-siisi07&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -52,23 +52,20 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
 
 <div align="center">
 
-<!-- Row 1: Overall Stats and Top Languages -->
-<table align="center">
+<!-- Dashboard Grid layout for Stats -->
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&theme=react&hide_border=true&show_icons=true" alt="GitHub Stats" />
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ludwig-siisi07&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&theme=react&hide_border=true&layout=compact" alt="Top Languages" />
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-siisi07&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
-</table>
-
-<!-- Row 2: Weekly/Daily Commit Streak -->
-<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&theme=react&hide_border=true" alt="GitHub Streak" />
+    <td align="center" colspan="2" style="border: none;">
+      <!-- Streak with custom fiery colors -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwig-siisi07&theme=tokyonight&hide_border=true&fire=ff5722&ring=ff9800&currStreakNum=ff5722" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
