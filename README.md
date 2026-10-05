@@ -4,16 +4,24 @@
 
 <!-- Dynamic Typing Greeting -->
 <a href="https://github.com/ludwig-siisi07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ludwig!+%F0%9F%91%8B;Aspiring+Electronics+Engineer;Self-Taught+Developer;Building+automated+control+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Aspiring+Electronics+Engineer;Self-Taught+Developer;Building+automated+control+systems;Hi+there,+I'm+Ludwig!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Sleek Social Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ludwig-siisi-ben-acquaah-119534332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/Ludwig_siisi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:ludwigsiisibenacquaah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ludwig-siisi-ben-acquaah-119534332">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Ludwig_siisi">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ludwigsiisibenacquaah@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
 </p>
 
 <!-- Profile Views -->
@@ -65,13 +73,10 @@ Aspiring Electronics Engineer learning to code to build automated and control sy
   </tr>
 </table>
 
-<!-- Row 3: Daily Activity Graph (Shows activity spikes across weeks) -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ludwig-siisi07&theme=react-dark&hide_border=true&bg_color=222222" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- Row 3: Live Contribution Calendar -->
+### 📅 Contribution Graph
+<a href="https://github.com/ludwig-siisi07">
+  <img src="https://ghchart.rshah.org/61dafb/ludwig-siisi07" alt="Ludwig's Github Chart" width="800" />
+</a>
 
 </div>
